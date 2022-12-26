@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "langchain-tests"
+  site-url: "https://francescogianferraripini.github.io/langchain-tests"
+  description: "tests for langchain"
+  repo-branch: main
+  repo-url: "https://github.com/francescogianferraripini/langchain-tests"
